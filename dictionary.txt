@@ -1,0 +1,12 @@
+laptop
+computer
+tablet
+fork
+umbrella
+machine
+learn
+cow
+cat
+elephant
+lead
+coal
